@@ -63,4 +63,6 @@ int main() {
             printf("Direita.\n");
         }
     }
+
+    return 0;
 }
